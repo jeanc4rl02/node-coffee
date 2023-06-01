@@ -8,7 +8,7 @@
     "start": "node app"
   },
   "keywords": [],
-  "author": "",
+  "author": "jeanc4rl02",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
